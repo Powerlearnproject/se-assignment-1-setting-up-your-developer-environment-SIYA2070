@@ -2,9 +2,11 @@
 
 1 Operating System is Windows 11 Downloded from:
     https://www.microsoft.com/software-download/windows11 
+   ![windows 11 installation](C:\Users\Siyabonga\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-SIYA2070\Windows11.png)
 
 2 Installing IDE (Intergrated Developmemt Environment)
-    Downloded the Visual Studio Code from: https://code.visualstudio.com/Download
+Downloded the Visual Studio Code from: https://code.visualstudio.com/Download
+![vscode installation](C:\Users\Siyabonga\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-SIYA2070\VisualStudioCode.png)
     
 - Step 1: Visit the Visual Studio Code download page
 - Step 2: Download the installer for Windows
@@ -13,6 +15,8 @@
 
 3 Setting up a Version Control System
 I Downloded Git from https://github.com,  I Installed Git and configure it on my computer.I then created a GitHub account for hosting my repositories. thereafter I initialised a Git repository for your project and made my first commit.
+
+![git downlod](C:\Users\Siyabonga\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-SIYA2070\GitHub.png)
 - Step 1: Visit the Git download page and download the installer.
 - Step 2: Run the installer and follow the prompts to install Git.
 - Step 3: Open Git Bash to configure Git
@@ -21,11 +25,15 @@ I Downloded Git from https://github.com,  I Installed Git and configure it on my
 - Step 6: clone the repository to the computer
 - Step 7: Initialise a Git repository in your project folder and make your first commit.
 
+![git commit](C:\Users\Siyabonga\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-SIYA2070\Gitclone.png)
+
 4 Installing necessary programming languages and runtimes
-   I Installed Python http://wwww.python.org programming language required and installing their runtimes.
+   I Installed Python http://www.python.org programming language required and installing their runtimes.
 - Step 1: Visit the Python download page and download the latest version.
 - Step 2: Run the installer and ensure you check the option to "Add Python to PATH"
 - Step 3: Verify the installation by opening Command Prompt and typing "python --version"
+
+![SQL DOWNLOAD](C:\Users\Siyabonga\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-SIYA2070\SQL.png)
 
 5 Configuring Database (MySQL)
    Download and install MySQL database from https://dev.mysql.com/downloads/windows/installer/5.7.html
@@ -73,4 +81,4 @@ When I was stuck, I reached out to peers who had more experience with Git and Gi
 
 **Conclusion** 
 
-    In conclusion while the process of setting up GitHub and making my first commits was challenging, the experience was highly educational. The difficulties I encountered and the strategies I used to overcome them have given me a deeper understanding of version control, which is crucial for any software development project. This reflection not only highlights the challenges but also serves as a roadmap for continuous improvement in managing version control systems.
+In conclusion while the process of setting up GitHub and making my first commits was challenging, the experience was highly educational. The difficulties I encountered and the strategies I used to overcome them have given me a deeper understanding of version control, which is crucial for any software development project. This reflection not only highlights the challenges but also serves as a roadmap for continuous improvement in managing version control systems.
